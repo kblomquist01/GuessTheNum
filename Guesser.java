@@ -169,8 +169,6 @@ public class Guesser {
         int numGuesses = 0;
         range -= 1; //range decreasing so that displayed range is in proper bounds
 
-        System.out.println("Red " + secrets[0] + " Green " + secrets[1] + " Blue " + secrets[2]);
-
         while(guesses[0] != secrets[0] || guesses[1] != secrets[1] || guesses[2] != secrets[2]){
 
             numGuesses += 1;
