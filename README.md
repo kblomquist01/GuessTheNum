@@ -17,7 +17,7 @@ Visual Studio Code
 # Useful Websites
 
 
-- [W3Schools](https://www.w3schools.com/java/default.asp)
+[W3Schools](https://www.w3schools.com/java/default.asp)
 
 # Future Work
 
